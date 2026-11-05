@@ -1,7 +1,7 @@
 # ENTIDAD-RELACIÓN
 Este programa nos permite y facilita la creación de entidades-relación.
 
-Últimos cambios v1.2:
+Últimos cambios v1.9:
 - Se añadieron Recursivas
 - Se agregó una Wiki para la explicación de cada uno de los elementos
 - Se agruparon (Entidad, Entidad débil, Relación y Atributo) y (ISA, Restricción, Arco)
